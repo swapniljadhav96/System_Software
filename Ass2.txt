@@ -1,0 +1,25 @@
+
+This is a Sample Text File for Testing.
+It contains multiple lines with various elements such as Capital Words, small words, 123 numbers, and symbols like $ and %.
+The numbers incl
+
+This is line 1.
+Here comes line 2.
+And now line 3 follows.
+Line 4 is here.
+Number 5.
+Sixth line coming up.
+The seventh line is here.
+Eighth line.
+This is the ninth line.
+Tenth line.
+Eleventh line.
+Line number twelve.
+Lucky line 13.
+Line 14 says hello.
+Fifteenth line is here.
+16th line.
+17th line coming through.
+Line 18 is next.
+Almost there, line 19.
+20th line, last one.
