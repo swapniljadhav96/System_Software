@@ -2,8 +2,8 @@
 #include<stdio.h>
 int yylex();
 int yyerror();
-
 %}
+
 %token ID TYPE SC NL COMMA
 %%
 start:TYPE varlist SC NL    {printf("valid declarative statement");}
