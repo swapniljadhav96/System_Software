@@ -1,3 +1,6 @@
+//Write a program using LEX and YACC to generate Intermediate code in the form of Three 
+//addresss and Quadruple form for assignment statement 
+
 %{			
 #include"y.tab.h"
 #include"stdio.h"
