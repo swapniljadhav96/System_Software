@@ -1,3 +1,6 @@
+// Write a program using YACC specifications to implement syntax analysis phase of compiler to
+//recognize simple and compound sentences given in input file. 
+
 %{
 #include<stdlib.h>
 #include<stdio.h>
