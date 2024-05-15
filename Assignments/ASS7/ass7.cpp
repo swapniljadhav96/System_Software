@@ -1,3 +1,6 @@
+
+//Write a program using LEX and YACC to generate a symbol table  
+
 #include <iostream>
 #include <cctype>
 #include <cstdlib>
