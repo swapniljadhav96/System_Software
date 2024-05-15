@@ -1,3 +1,6 @@
+//Write a program using YACC specifications to implement calulator to perform various arithmetic 
+//operations 
+
 %{
 #include "y.tab.h"
 #include<stdio.h>
