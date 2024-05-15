@@ -1,3 +1,4 @@
+//Write a LEX program to display word, character and line counts for a sample input text file
 %{ 
   
     int ccount=0,capcount=0,smalcount=0,lcount=0;
