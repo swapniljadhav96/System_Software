@@ -1,4 +1,7 @@
-    #include <stdio.h>  
+
+//Write a program to implement recursive descent parser(RDP) for sample language. 
+
+#include <stdio.h>  
     #include <string.h>  
       
     #define SUCCESS 1  
