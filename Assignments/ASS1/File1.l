@@ -1,3 +1,6 @@
+ //Write a program using LEX specifications to implement lexical analysis phase of compiler to 
+//generate tokens of subset of ‘C’ program. 
+
 %{
 %}
 letter [A-Za-z]
